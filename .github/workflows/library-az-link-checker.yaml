@@ -149,7 +149,7 @@ jobs:
         html_body: ${{ env.STATUS_MESSAGE }} # Needs to be html to stop Outlook safelinks
         convert_markdown: true
         #attachments: ${{ env.ATTACHMENT }}
-        to: ${{secrets.LL_EMAIL_RECIPIENT}}
+        # to: ${{secrets.LL_EMAIL_RECIPIENT}}
         cc: ${{secrets.EMAIL_RECIPIENT}}
         from: Library Linkchecker
         priority: normal
