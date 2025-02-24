@@ -1,0 +1,26 @@
+URL,Status Code,Content-Type,Parent URL,Input Line
+http://bufvc.ac.uk/projects-research/avcitation,404,text/html,https://library.soton.ac.uk/az/databases?a=a,65
+https://www.bl.uk/reshelp/bldept/music/,404,text/html,https://library.soton.ac.uk/az/databases?a=b,158
+https://www.bl.uk/manuscripts/,404,text/html,https://library.soton.ac.uk/az/databases?a=b,159
+https://www.bl.uk/business-and-management,404,text/html,https://library.soton.ac.uk/az/databases?a=b,190
+https://www.bl.uk/bipc/dbandpubs/intpropres/index.html,404,text/html,https://library.soton.ac.uk/az/databases?a=b,196
+https://www.bl.uk/catalogues-and-collections/digital-collections,404,text/html,https://library.soton.ac.uk/az/databases?a=b,213
+https://www.bl.uk/social-welfare,404,text/html,https://library.soton.ac.uk/az/databases?a=b,228
+https://www.bl.uk/sounds,404,text/html,https://library.soton.ac.uk/az/databases?a=b,242
+https://library.soton.ac.uk/coursera,404,text/html; charset=UTF-8,https://library.soton.ac.uk/az/databases?a=c,290
+http://www.ucl.ac.uk/englishmonasticarchives/,404,text/html; charset=utf-8,https://library.soton.ac.uk/az/databases?a=e,502
+https://historicaltexts.jisc.ac.uk/support,404,text/html; charset=utf-8,https://library.soton.ac.uk/az/databases?a=e,521
+https://gallica.bnf.fr/html/und/presse-et-revues/presse-et-revues,404,text/html; charset=UTF-8,https://library.soton.ac.uk/az/databases?a=g,593
+https://www.bl.uk/reshelp/findhelplang/german/germanaustrianexiles/germanaustrianexiles.html,404,text/html,https://library.soton.ac.uk/az/databases?a=g,610
+https://gallica.bnf.fr/accueil/en/content/accueil-en,404,text/html; charset=UTF-8,https://library.soton.ac.uk/az/databases?a=g,616
+https://www.nlm.nih.gov/nichsr/db.html#hstat,404,text/html,https://library.soton.ac.uk/az/databases?a=h,630
+https://www.hamish-fulton.com/main.htm,404,text/html; charset=UTF-8,https://library.soton.ac.uk/az/databases?a=h,635
+https://journalarchives.jisc.ac.uk/newuser,404,text/html; charset=utf-8,https://library.soton.ac.uk/az/databases?a=j,894
+https://journalarchives.jisc.ac.uk/home,404,text/html; charset=utf-8,https://library.soton.ac.uk/az/databases?a=j,897
+https://library.soton.ac.uk/llc,404,text/html; charset=UTF-8,https://library.soton.ac.uk/az/databases?a=l,967
+https://library.soton.ac.uk/lrc,404,text/html; charset=UTF-8,https://library.soton.ac.uk/az/databases?a=l,973
+https://www.blackandbrownskin.co.uk/mindthegap,404,text/html;charset=utf-8,https://library.soton.ac.uk/az/databases?a=m,17
+https://map-marketplace.mog-technologies.com/makefilmhistory,404,text/html,https://library.soton.ac.uk/az/databases?a=m,66
+https://datashare.ed.ac.uk/handle/10283/2345 ,404,text/html;charset=utf-8,https://library.soton.ac.uk/az/databases?a=s,420
+https://www.bl.uk/catalogues-and-collections/digital-collections#,404,text/html,https://library.soton.ac.uk/az/databases?a=t,533
+https://historicaltexts.jisc.ac.uk/,404,text/html; charset=utf-8,https://library.soton.ac.uk/az/databases?a=u,571
